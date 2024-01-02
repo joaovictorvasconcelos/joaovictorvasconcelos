@@ -1,4 +1,4 @@
-**Hello friend!**, my name is **João Victor Vasconcelos Fernandes**. I am a **software engineer**, popularly known as **Pavel** or **Pavelixo**. I am Brazilian and focused on **web backend development**.
+**Hi there!** My name is **João Victor Vasconcelos Fernandes**, but you can call me **Pavel** or **Pavelixo**. I’m **Brazilian** and work as a **web backend developer**.
 
 ``backend`` :
  **ᴘʏᴛʜᴏɴ  ᴄ  ᴄ++  ʙᴀsʜ  ᴊᴀᴠᴀ  ʀᴜsᴛ**
