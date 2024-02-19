@@ -1,2 +1,2 @@
-__*ℹ︎hello!*__:wave:
+__*ℹ︎ code*__ :wave:
 
